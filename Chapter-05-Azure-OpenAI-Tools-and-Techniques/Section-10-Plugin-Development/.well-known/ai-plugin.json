@@ -1,0 +1,17 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Event List",
+    "name_for_model": "event",
+    "description_for_human": "Organize your list of events. You have the ability to add, delete, and see your events.",
+    "description_for_model": "Aid the user in overseeing an event list. You have the capability to include, eliminate, and examine your events.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "https://localhost:8080/openapi.yaml"
+    },
+    "logo_url": "https://localhost:8080/logo.png",
+    "contact_email": "support@example.com",
+    "legal_info_url": "http://www.example.com/legal"
+}

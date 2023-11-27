@@ -1,0 +1,29 @@
+openapi: 3.0.1
+info:
+  title: Event Plugin
+  description: A plugin that enables the user to manage event list by using ChatGPT.
+  version: 'v1'
+servers:
+  - url: https://localhost:8080
+paths:
+  /events:
+    get:
+      operationId: getEvents
+      summary: Get the list of events
+      responses:
+        '200':
+          description: OK
+          content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/getEventResponse'
+components:
+  schemas:
+    getEventResponse:
+      type: object
+      properties:
+        events:
+          type: array
+          items:
+            type: string
+          description: The list of events
