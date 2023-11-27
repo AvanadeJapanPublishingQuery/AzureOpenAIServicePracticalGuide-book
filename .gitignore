@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 /.vs/AzureOpenAIServicePracticalGuide-book/FileContentIndex/ea3a7c48-35b5-46a7-a094-db5e2e6290cd.vsidx
 /.vs/AzureOpenAIServicePracticalGuide-book/FileContentIndex/cd95850b-dd25-4191-b9f0-dfa758704d81.vsidx
+
+# Visual Studio Settings
+.vs/
