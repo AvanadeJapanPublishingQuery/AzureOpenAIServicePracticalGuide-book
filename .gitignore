@@ -158,3 +158,5 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/.vs/AzureOpenAIServicePracticalGuide-book/FileContentIndex/ea3a7c48-35b5-46a7-a094-db5e2e6290cd.vsidx
+/.vs/AzureOpenAIServicePracticalGuide-book/FileContentIndex/cd95850b-dd25-4191-b9f0-dfa758704d81.vsidx
