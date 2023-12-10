@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-03-Azure-AI-Search",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-03-Azure-AI-Search\\python",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-03-Azure-AI-Search\\python\\5.3.5.Text-Search",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-03-Azure-AI-Search\\python\\5.3.7.Semantic-Search",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-07-Semantic-Kernel",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-07-Semantic-Kernel\\python",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-08-Function-Calling",
+    "\\Chapter-05-Azure-OpenAI-Tools-and-Techniques\\Section-08-Function-Calling\\python"
   ],
-  "SelectedNode": "\\C:\\Work\\202306_\u66F8\u7C4D_OpenAI_copilot\\GitHub\\\u30BD\u30FC\u30B9\u7BA1\u7406\\GitHub_Repos\\AzureOpenAIServicePracticalGuide-book",
   "PreviewInSolutionExplorer": false
 }

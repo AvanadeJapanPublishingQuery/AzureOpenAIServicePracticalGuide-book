@@ -36,3 +36,7 @@ class GenerateNumberSkill:
 
 generate_number_skill = kernel.import_skill(GenerateNumberSkill())
 
+# 関数の実行
+generate_number_three_or_higher = generate_number_skill["GenerateNumberThreeOrHigher"]
+number_result = generate_number_three_or_higher(6)
+print(number_result)

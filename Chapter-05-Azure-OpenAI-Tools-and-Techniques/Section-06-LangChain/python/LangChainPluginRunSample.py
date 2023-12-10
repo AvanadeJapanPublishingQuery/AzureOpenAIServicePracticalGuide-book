@@ -4,15 +4,15 @@ from langchain.agents import AgentType
 from langchain.tools import AIPluginTool
 import time
 
-# OpenAI APIの設定
-BASE_URL = "https://demo-enterprise.openai.azure.com/"
-API_KEY = "2a3cb13da860478ca656354a1d58048d"
+# Azure OpenAI APIの設定
+AZURE_OPENAI_ENDPOINT="YOUR AZURE OPENAI ENDPOINT"
+AZURE_OPENAI_API_KEY="YOUR AZURE OPENAI API KEY"
 DEPLOYMENT_NAME = "gpt-35-turbo-16k"
 model = AzureChatOpenAI(
-    openai_api_base=BASE_URL,
+    openai_api_base=AZURE_OPENAI_ENDPOINT,
     openai_api_version="2023-07-01-preview",
     deployment_name=DEPLOYMENT_NAME,
-    openai_api_key=API_KEY,
+    openai_api_key=AZURE_OPENAI_API_KEY,
     openai_api_type="azure",
 )
 

@@ -4,14 +4,14 @@ from langchain.schema import (
  HumanMessage,
 )
 # Azure OpenAI APIの設定
-BASE_URL = "AZURE_OPENAI_ENDPOINT"
-API_KEY = "AZURE_OPENAI_API_KEY"
+AZURE_OPENAI_ENDPOINT="YOUR AZURE OPENAI ENDPOINT"
+AZURE_OPENAI_API_KEY="YOUR AZURE OPENAI API KEY"
 DEPLOYMENT_NAME = "gpt-35-turbo-16k"
 chat = AzureChatOpenAI(
- openai_api_base=BASE_URL,
+ openai_api_base=AZURE_OPENAI_ENDPOINT,
  openai_api_version="2023-07-01-preview",
  deployment_name=DEPLOYMENT_NAME,
- openai_api_key=API_KEY,
+ openai_api_key=AZURE_OPENAI_API_KEY,
  openai_api_type="azure"
 )
 
