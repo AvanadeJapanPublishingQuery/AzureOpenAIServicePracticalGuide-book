@@ -55,16 +55,16 @@ https://www.amazon.co.jp/dp/4296203797
 ## 4.	各章のソースコード
 | 章-節.タイトル | リポジトリ |
 | --- | --- |
-| 4-4.プレイグラウンド         | [Section-04-Playground](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-04-Azure-OpenAI-Environment-Setup/Section-04-Playground) {:target="_blank"} |
-| 5-3.Azure AI Search          | [Section-03-Azure-AI-Search](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-03-Azure-AI-Search/python){:target="_blank"} |
-| 5-4.Grounding／RAG           | [Section-04-Grounding-RAG](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-04-Grounding-RAG/python){:target="_blank"} |
-| 5-6.LangChain                | [Section-06-LangChain](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-06-LangChain/python){:target="_blank"} |
-| 5-7.Semantic Kernel          | [Section-07-Semantic-Kernel](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-07-Semantic-Kernel){:target="_blank"} |
-| 5-8.Function Calling         | [Section-08-Function-Calling](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-08-Function-Calling/python){:target="_blank"} |
-| 5-9.プロンプトフロー         | [Section-09-Prompt-Flow](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-09-Prompt-Flow){:target="_blank"} |
-| 5-10.プラグイン開発          | [Section-10-Plugin-Development](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-10-Plugin-Development){:target="_blank"} |
-| 5-11.ファインチューニング    | [Section-11-Fine-Tuning](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-11-Fine-Tuning){:target="_blank"} |
-| 5-12.Azure AI Content Safety | [Section-12-Azure-AI-Content-Safety](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-12-Azure-AI-Content-Safety/http){:target="_blank"} |
+| 4-4.プレイグラウンド         | [Section-04-Playground](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-04-Azure-OpenAI-Environment-Setup/Section-04-Playground) |
+| 5-3.Azure AI Search          | [Section-03-Azure-AI-Search](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-03-Azure-AI-Search/python) |
+| 5-4.Grounding／RAG           | [Section-04-Grounding-RAG](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-04-Grounding-RAG/python) |
+| 5-6.LangChain                | [Section-06-LangChain](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-06-LangChain/python) |
+| 5-7.Semantic Kernel          | [Section-07-Semantic-Kernel](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-07-Semantic-Kernel) |
+| 5-8.Function Calling         | [Section-08-Function-Calling](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-08-Function-Calling/python) |
+| 5-9.プロンプトフロー         | [Section-09-Prompt-Flow](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-09-Prompt-Flow) |
+| 5-10.プラグイン開発          | [Section-10-Plugin-Development](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-10-Plugin-Development) |
+| 5-11.ファインチューニング    | [Section-11-Fine-Tuning](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-11-Fine-Tuning) |
+| 5-12.Azure AI Content Safety | [Section-12-Azure-AI-Content-Safety](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/tree/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-12-Azure-AI-Content-Safety/http) |
 
 ## 5.	免責事項
 　- 本書の内容は原則として、2023年10月時点の情報を基にしています。
