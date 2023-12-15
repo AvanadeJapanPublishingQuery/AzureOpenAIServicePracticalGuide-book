@@ -1,11 +1,11 @@
 # sample code
-POST https://"YOUR AZURE CONTENT SAFETY ENDPOINT"contentsafety/text:analyze?api-version=2023-04-30-preview
+POST "YOUR AZURE CONTENT SAFETY ENDPOINT"contentsafety/text:analyze?api-version=2023-04-30-preview
 Host: "YOUR AZURE CONTENT SAFETY ENDPOINT"
 Content-Type: application/json
 Ocp-Apim-Subscription-Key: "YOUR AZURE CONTENT SAFETY API KEY"
 
 {
- "text": "We are planning a meeting at our Saitama office.",
+ "text": "We are planning a meeting at our Tokyo office.",
  "categories": [
  "Hate","Sexual","SelfHarm","Violence"
  ],
