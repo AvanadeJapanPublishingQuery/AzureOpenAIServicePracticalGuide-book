@@ -4,6 +4,8 @@
 「Azure OpenAI Service実践ガイド ～ LLMを組み込んだシステム構築」の GitHub リポジトリです。
 
 ## 2. 書籍情報
+<img src="https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/blob/main/img/AzureOpenAIService%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89.jpg" title="Azure OpenAI Service実践ガイド ～ LLMを組み込んだシステム構築" alt="Azure OpenAI Service実践ガイド LLMを組み込んだシステム構築" width="300">
+
 https://www.amazon.co.jp/dp/4296203797
 
 | 項目 | 内容 |
