@@ -72,10 +72,7 @@ https://www.amazon.co.jp/dp/4296203797
  - 本書の内容は原則として、2023年10月時点の情報を基にしています。  
  - ただし、2023年11月に開催された「Microsoft Ignite」で発表された内容も可能な限り盛り込んでいます。  
 
-## 6.	インストールガイド
-(　更新予定　)
-
-## 7.	ライセンス
+## 6.	ライセンス
 本リポジトリのライセンスにつきましては、MIT License に従います。  
 https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/blob/main/LICENSE.md
 
@@ -83,14 +80,14 @@ https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-
 - 作成者や著作権者は、製品に対しての義務や責任を何ら負わないこと
 - 著作権の表示を保持すること
 
-## 8.	書籍の誤り・エラーについて
+## 7.	書籍の誤り・エラーについて
 書籍の誤り（誤字など）や、発生したエラーについては、GitHub の Issue からご連絡ください。
 	https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues
 
-## 9. 正誤表
+## 8. 正誤表
 現時点では、正誤表はございません。
 
-## 10. リンク
+## 9. リンク
 | 会社名 | リンク | 備考 |
 | --- | --- | --- |
 | Avanade | https://www.avanade.com/ja-jp | Avanade Japanトップページ |
