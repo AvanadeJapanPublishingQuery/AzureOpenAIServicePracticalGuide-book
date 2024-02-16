@@ -53,7 +53,7 @@ for doc in DOCUMENT:
     doc['title_vector'] = response_title['data'][0]['embedding']
     time.sleep(10)
     # 説明をベクトル化
-    response_description = openai.Embedding.create(input=doc['description'],engine='text-embedding-ada-002')
+    response_description = openai.Embedding.create(input=doc['description'],engine=model_name)
     doc['description_vector'] = response_description['data'][0]['embedding']
     time.sleep(10)
 
