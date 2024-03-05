@@ -1,0 +1,13 @@
+Azure OpenAI Service は、GPT-4、GPT-35-Turbo、Embeddings モデル シリーズを含む
+
+OpenAI の強力な言語モデルへの REST API アクセスを提供します。
+
+さらに、新しい GPT-4 および gpt-35-turbo モデル シリーズが一般提供になりました。
+
+これらのモデルは、コンテンツ生成、要約、セマンティック検索、自然言語からコードへの変換などを含む特定のタスクに
+
+簡単に適合させることができます。
+
+ユーザーは、REST API、Python SDK、または Azure OpenAI Studio の Web ベースのインターフェイスを通じて
+
+サービスにアクセスできます。
