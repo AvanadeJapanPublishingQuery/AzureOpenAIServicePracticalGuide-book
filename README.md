@@ -85,8 +85,9 @@ https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-
 	https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues
 
 ## 8. 正誤表
-正誤表はこちらになります。  
+本書の正誤情報は以下のページで公開しています。  
 [Wiki/errata.md](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/blob/staging/Wiki/errata.md)
+本ページに掲載されていない誤植など間違いを見つけた方は、[issue](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues)  までお知らせください。
 
 ## 9. リンク
 | 会社名 | リンク | 備考 |
