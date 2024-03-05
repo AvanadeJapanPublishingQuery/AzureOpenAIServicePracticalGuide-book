@@ -1,32 +1,31 @@
-# ‘ĞFuAzure OpenAI ServiceÀ‘HƒKƒCƒh ` LLM‚ğ‘g‚İ‚ñ‚¾ƒVƒXƒeƒ€\’zv‚Ì³Œë•\
+# æ›¸ç±ï¼šã€ŒAzure OpenAI Serviceå®Ÿè·µã‚¬ã‚¤ãƒ‰ ï½ LLMã‚’çµ„ã¿è¾¼ã‚“ã ã‚·ã‚¹ãƒ†ãƒ æ§‹ç¯‰ã€ã®æ­£èª¤è¡¨
 
-‰º‹L‚ÌŒë‚è‚ª‚ ‚è‚Ü‚µ‚½B‚¨˜l‚Ñ‚µ‚Ä’ù³‚¢‚½‚µ‚Ü‚·B
+ä¸‹è¨˜ã®èª¤ã‚ŠãŒã‚ã‚Šã¾ã—ãŸã€‚ãŠè©«ã³ã—ã¦è¨‚æ­£ã„ãŸã—ã¾ã™ã€‚
 
-–{ƒy[ƒW‚ÉŒfÚ‚³‚ê‚Ä‚¢‚È‚¢ŒëA‚È‚ÇŠÔˆá‚¢‚ğŒ©‚Â‚¯‚½•û‚ÍA[issue](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues)  ‚Ü‚Å‚¨’m‚ç‚¹‚­‚¾‚³‚¢B
+æœ¬ãƒšãƒ¼ã‚¸ã«æ²è¼‰ã•ã‚Œã¦ã„ãªã„èª¤æ¤ãªã©é–“é•ã„ã‚’è¦‹ã¤ã‘ãŸæ–¹ã¯ã€[issue](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues)  ã¾ã§ãŠçŸ¥ã‚‰ã›ãã ã•ã„ã€‚
 
-# ‘æ3ü‚Ü‚Å
-| •Å | Œë | ³ |
+# ç¬¬3åˆ·ã¾ã§
+| é  | èª¤ | æ­£ |
 | ---- | ---- | ---- |
-| 5.7 P.253 
-@ƒR[ƒh 5.7.4 L.2 | (‹LÚ‚È‚µ) | using Microsoft.SemanticKernel.Planning; |
+| 5.7 P.253 ã‚³ãƒ¼ãƒ‰ 5.7.4 L.2 | (è¨˜è¼‰ãªã—) | using Microsoft.SemanticKernel.Planning; |
 | 5.7 P.255 L.3 | https://github.com/microsoft/semantic-kernel/tree/main/samples/skills | https://github.com/microsoft/semantic-kernel/tree/python-0.3.15.dev/samples/skills |
 
 ### 5.7 P.253 
-ƒR[ƒh 5.7.4 OpenAI‹KŠiƒvƒ‰ƒOƒCƒ“‚ÌÀs (C#)
-‚ÌƒTƒ“ƒvƒ‹ƒR[ƒh‚Ì‹Lq‚É‚¨‚¢‚Ä
-using Microsoft.SemanticKernel.Planning;
-‚Ì‹Lq‚ª”²‚¯‚Ä‚¨‚è‚Ü‚µ‚½B
+ã€€ã‚³ãƒ¼ãƒ‰ 5.7.4 OpenAIè¦æ ¼ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®å®Ÿè¡Œ (C#)  
+ã€€ã®ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰ã®è¨˜è¿°ã«ãŠã„ã¦  
+ã€€using Microsoft.SemanticKernel.Planning;  
+ã€€ã®è¨˜è¿°ãŒæŠœã‘ã¦ãŠã‚Šã¾ã—ãŸã€‚  
 
-ƒŠƒ|ƒWƒgƒŠ‚ÌƒTƒ“ƒvƒ‹ƒR[ƒh‚Í–â‘è‚²‚´‚¢‚Ü‚¹‚ñB
-ƒŠƒ|ƒWƒgƒŠ‚ÌC³‚Í‚²‚´‚¢‚Ü‚¹‚ñB
-[Program.cs](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/blob/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-07-Semantic-Kernel/CSharp/cs_plugin_demo/Program.cs)
+ã€€ãƒªãƒã‚¸ãƒˆãƒªã®ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰ã¯å•é¡Œã”ã–ã„ã¾ã›ã‚“ã€‚  
+ã€€ãƒªãƒã‚¸ãƒˆãƒªã®ä¿®æ­£ã¯ã”ã–ã„ã¾ã›ã‚“ã€‚  
+ã€€[Program.cs](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/blob/main/Chapter-05-Azure-OpenAI-Tools-and-Techniques/Section-07-Semantic-Kernel/CSharp/cs_plugin_demo/Program.cs)  
 
 ### 5.7 P.255 
-Ú×‚ÍAissue #4 ‚É‹LÚ’v‚µ‚Ü‚µ‚½B
-https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues/4
+ã€€è©³ç´°ã¯ã€issue #4 ã«è¨˜è¼‰è‡´ã—ã¾ã—ãŸã€‚  
+ã€€https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues/4  
 
-# ‘æ2ü‚Ü‚Å
-C³‚Í‚²‚´‚¢‚Ü‚¹‚ñB
+# ç¬¬2åˆ·ã¾ã§
+ä¿®æ­£ã¯ã”ã–ã„ã¾ã›ã‚“ã€‚  
 
-# ‘æ1ü
-C³‚Í‚²‚´‚¢‚Ü‚¹‚ñB
+# ç¬¬1åˆ·
+ä¿®æ­£ã¯ã”ã–ã„ã¾ã›ã‚“ã€‚  
