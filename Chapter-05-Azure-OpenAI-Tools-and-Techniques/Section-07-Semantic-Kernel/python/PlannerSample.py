@@ -21,8 +21,8 @@ async def main():
     """
 
     #必要なpluginをインポート
-    #https://github.com/microsoft/semantic-kernel/tree/main/samples/pluginsからダウンロードしてローカルでインポート
-    plugin_directory = "../../samples/plugin/"
+    #https://github.com/microsoft/semantic-kernel/tree/python-0.3.15.dev/samples/skillsからダウンロードしてローカルでインポート
+    plugin_directory = "../../samples/skills/"
     summarize_plugin = kernel.import_semantic_skill_from_directory(plugin_directory, "SummarizeSkill")
     writer_plugin = kernel.import_semantic_skill_from_directory(plugin_directory, "WriterSkill")
     text_plugin = kernel.import_skill(TextSkill(), "TextSkill")
