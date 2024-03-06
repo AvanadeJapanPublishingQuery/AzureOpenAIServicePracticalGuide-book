@@ -4,11 +4,12 @@
 
 本ページに掲載されていない誤植など間違いを見つけた方は、[issue](https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues)  までお知らせください。
 
-# 第3刷まで
+# 第2刷まで
 | 頁 | 誤 | 正 |
 | ---- | ---- | ---- |
-| 5.7 P.253 コード 5.7.4 L.2 | (記載なし) | using Microsoft.SemanticKernel.Planning; |
-| 5.7 P.255 L.3 | https://github.com/microsoft/semantic-kernel/tree/main/samples/skills | https://github.com/microsoft/semantic-kernel/tree/python-0.3.15.dev/samples/skills |
+| 5.7 P.253 コード 5.7.4 L.2 | (記載が抜けていた) | using Microsoft.SemanticKernel.Planning; |
+| 5.7 P.255 L.4 | https://github.com/microsoft/semantic-kernel/tree/main/samples/skills | https://github.com/microsoft/semantic-kernel/tree/python-0.3.15.dev/samples/skills |
+| 5.7 P.255 コード5.7.5 L.25 | plugin_directory = "../../samples/plugin/" | plugin_directory = "../../samples/skills/" |
 
 ### 5.7 P.253 
 　コード 5.7.4 OpenAI規格プラグインの実行 (C#)  
@@ -24,8 +25,3 @@
 　詳細は、issue #4 に記載致しました。  
 　https://github.com/AvanadeJapanPublishingQuery/AzureOpenAIServicePracticalGuide-book/issues/4  
 
-# 第2刷まで
-修正はございません。  
-
-# 第1刷
-修正はございません。  
